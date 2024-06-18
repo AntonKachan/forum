@@ -1,0 +1,41 @@
+[
+  {
+    "id": 7,
+    "email": "MyString",
+    "name": "Alice",
+    "created_at": "2024-06-18T07:38:23.387Z",
+    "updated_at": "2024-06-18T07:38:23.387Z",
+    "comments": [
+      {
+        "id": 10,
+        "content": "First comment",
+        "user_id": 7,
+        "created_at": "2024-06-18T07:38:23.402Z",
+        "updated_at": "2024-06-18T07:38:23.402Z"
+      },
+      {
+        "id": 11,
+        "content": "Second comment",
+        "user_id": 7,
+        "created_at": "2024-06-18T07:38:23.409Z",
+        "updated_at": "2024-06-18T07:38:23.409Z"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "email": "MyString",
+    "name": "Bob",
+    "created_at": "2024-06-18T07:38:23.390Z",
+    "updated_at": "2024-06-18T07:38:23.390Z",
+    "comments": [
+      {
+        "id": 12,
+        "content": "Hello world",
+        "user_id": 8,
+        "created_at": "2024-06-18T07:38:23.410Z",
+        "updated_at": "2024-06-18T07:38:23.410Z"
+      }
+    ]
+  }
+]
